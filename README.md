@@ -1,7 +1,7 @@
+# 资料获取  点击  [**《基于springboot+vue在线兼职平台》资料**](https://nwqbsc0rm1n.feishu.cn/docx/QnFZdiPRloKSzwxY7hdc6MLUnlb)
+---
+
 ## 1\. 项目概述
-
-[video(video-eIETEwLG-1780575395121)(type-csdn)(url-https://live.csdn.net/v/embed/529687)(image-https://i-blog.csdnimg.cn/direct/f5f9caed490a4baab157efa0bdb13fd7.png)(title-基于springboot+vue在线兼职平台)]
-
 
 ### 1\.1 项目背景
 
